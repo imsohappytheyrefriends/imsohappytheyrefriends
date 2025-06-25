@@ -1,3 +1,12 @@
+<p align="left">
+  <img src="https://i.imgur.com/8TIqNx7.png" width="500"/>
+  <img src="https://i.imgur.com/idCngEW.png" width="500"/>
+</p>
+
+<p align = "center">
+  ❝ 夢ならばどれほどよかったでしょう, 未だにあなたのことを夢にみる ❞
+</p>
+
 
 
 <!--
