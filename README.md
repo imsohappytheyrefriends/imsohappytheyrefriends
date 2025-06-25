@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="https://i.imgur.com/8TIqNx7.png" width="500"/>
-  <img src="https://i.imgur.com/idCngEW.png" width="500"/>
+<p align="center">
+  <img src="https://i.imgur.com/8TIqNx7.png" width="200"/>
+  <img src="https://i.imgur.com/idCngEW.png" width="200"/>
 </p>
 
 <p align = "center">
